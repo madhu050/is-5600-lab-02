@@ -383,6 +383,6 @@ And that’s it! You’ve now completed your first lab assignment using GitHub a
     npm run dev
     ```
 
-3. You can now view the project in the browser by clicking the "Application" port in the Ports panel.
+3. You can now view the project in the browser by clicking the "Application" port in the Ports panel.[887u7]
 
 Follow the instructions in the previous sections to complete the lab.
